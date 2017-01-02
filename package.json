@@ -2,9 +2,10 @@
   "name": "swa-dashboard",
   "version": "1.0.0",
   "description": "Dashboard to monitor and receive alerts for changes in Southwest fare prices",
-  "main": "index.js",
+  "main": "test.js",
   "bin": {
-    "swa": "index.js"
+    "swa": "test.js",
+    "checkFlights": "test.js"
   },
   "repository": {
     "type": "git",
